@@ -5,8 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="91ca622c-df85-4c30-a166-ae36c6331f33" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercises/ArithmeticOperations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercises/BigJava.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercises/DivideTwoNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercises/DoubleArithmetic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercises/DoubleArithmeticContinued.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercises/HelloName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercises/InputTwoNumbersAndDoArithmetic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercises/MultiplicationTableOfInput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercises/MultiplyInput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercises/SumOfTwoNumbers.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +29,9 @@
       </list>
     </option>
   </component>
+  <component name="FormatOnSaveOptions">
+    <option name="myRunOnSave" value="true" />
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -32,17 +44,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/development/ITvitae/tools/CodingExerciseAnalyzer&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "code.cleanup.on.save": "true",
+    "last_opened_file_path": "C:/development/ITvitae/tools/CodingExerciseAnalyzer",
+    "settings.editor.selected.configurable": "actions.on.save"
   }
-}</component>
-  <component name="RunManager" selected="Application.Array667">
-    <configuration name="Array667" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exercises.Array667" />
+}]]></component>
+  <component name="RunManager" selected="Application.DoubleArithmeticContinued">
+    <configuration name="BigJava" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercises.BigJava" />
       <module name="JavaExercises" />
       <extension name="coverage">
         <pattern>
@@ -54,8 +68,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArrayFront9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exercises.ArrayFront9" />
+    <configuration name="DoubleArithmetic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercises.DoubleArithmetic" />
       <module name="JavaExercises" />
       <extension name="coverage">
         <pattern>
@@ -67,8 +81,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CountXX" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exercises.CountXX" />
+    <configuration name="DoubleArithmeticContinued" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercises.DoubleArithmeticContinued" />
       <module name="JavaExercises" />
       <extension name="coverage">
         <pattern>
@@ -80,8 +94,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringSPlosion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exercises.StringSPlosion" />
+    <configuration name="InputTwoNumbersAndDoArithmetic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercises.InputTwoNumbersAndDoArithmetic" />
       <module name="JavaExercises" />
       <extension name="coverage">
         <pattern>
@@ -93,8 +107,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringX" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exercises.StringX" />
+    <configuration name="MultiplicationTableOfInput" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercises.MultiplicationTableOfInput" />
       <module name="JavaExercises" />
       <extension name="coverage">
         <pattern>
@@ -108,11 +122,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Array667" />
-        <item itemvalue="Application.StringX" />
-        <item itemvalue="Application.ArrayFront9" />
-        <item itemvalue="Application.StringSPlosion" />
-        <item itemvalue="Application.CountXX" />
+        <item itemvalue="Application.DoubleArithmeticContinued" />
+        <item itemvalue="Application.DoubleArithmetic" />
+        <item itemvalue="Application.BigJava" />
+        <item itemvalue="Application.MultiplicationTableOfInput" />
+        <item itemvalue="Application.InputTwoNumbersAndDoArithmetic" />
       </list>
     </recent_temporary>
   </component>
