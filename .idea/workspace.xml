@@ -5,12 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="91ca622c-df85-4c30-a166-ae36c6331f33" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/exercises/FrontBack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exercises/IcyHot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exercises/In3050.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exercises/LoneTeen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exercises/Or35.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exercises/StartOz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercises/Front22.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercises/Front3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercises/LastDigit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercises/Makes10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercises/NotString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercises/SumDouble.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,9 +45,9 @@
     &quot;last_opened_file_path&quot;: &quot;C:/development/ITvitae/tools/CodingExerciseAnalyzer&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.In3050">
-    <configuration name="IcyHot" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exercises.IcyHot" />
+  <component name="RunManager" selected="Application.Front22">
+    <configuration name="Front22" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercises.Front22" />
       <module name="JavaExercises" />
       <extension name="coverage">
         <pattern>
@@ -59,8 +59,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="In3050" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exercises.In3050" />
+    <configuration name="LastDigit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercises.LastDigit" />
       <module name="JavaExercises" />
       <extension name="coverage">
         <pattern>
@@ -72,8 +72,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LoneTeen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exercises.LoneTeen" />
+    <configuration name="Makes10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercises.Makes10" />
       <module name="JavaExercises" />
       <extension name="coverage">
         <pattern>
@@ -85,8 +85,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Or35" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exercises.Or35" />
+    <configuration name="NotString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercises.NotString" />
       <module name="JavaExercises" />
       <extension name="coverage">
         <pattern>
@@ -98,8 +98,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StartOz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exercises.StartOz" />
+    <configuration name="SumDouble" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercises.SumDouble" />
       <module name="JavaExercises" />
       <extension name="coverage">
         <pattern>
@@ -113,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.In3050" />
-        <item itemvalue="Application.StartOz" />
-        <item itemvalue="Application.LoneTeen" />
-        <item itemvalue="Application.IcyHot" />
-        <item itemvalue="Application.Or35" />
+        <item itemvalue="Application.Front22" />
+        <item itemvalue="Application.NotString" />
+        <item itemvalue="Application.Makes10" />
+        <item itemvalue="Application.SumDouble" />
+        <item itemvalue="Application.LastDigit" />
       </list>
     </recent_temporary>
   </component>
