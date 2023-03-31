@@ -5,20 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="91ca622c-df85-4c30-a166-ae36c6331f33" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/exercises/BackAround.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exercises/Close10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exercises/EveryNth.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exercises/HasTeen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exercises/MixStart.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exercises/MonkeyTrouble.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exercises/ParrotTrouble.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exercises/PosNeg.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exercises/StartHi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exercises/StringE.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercises/FrontBack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercises/IcyHot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercises/In3050.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercises/LoneTeen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercises/Or35.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercises/StartOz.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/exercises/Diff21.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exercises/Diff21.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/exercises/MissingChar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exercises/MissingChar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/exercises/NearHundred.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exercises/NearHundred.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,9 +45,9 @@
     &quot;last_opened_file_path&quot;: &quot;C:/development/ITvitae/tools/CodingExerciseAnalyzer&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.PosNeg">
-    <configuration name="EveryNth" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exercises.EveryNth" />
+  <component name="RunManager" selected="Application.In3050">
+    <configuration name="IcyHot" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercises.IcyHot" />
       <module name="JavaExercises" />
       <extension name="coverage">
         <pattern>
@@ -66,8 +59,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MonkeyTrouble" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exercises.MonkeyTrouble" />
+    <configuration name="In3050" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercises.In3050" />
       <module name="JavaExercises" />
       <extension name="coverage">
         <pattern>
@@ -79,8 +72,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ParrotTrouble" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exercises.ParrotTrouble" />
+    <configuration name="LoneTeen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercises.LoneTeen" />
       <module name="JavaExercises" />
       <extension name="coverage">
         <pattern>
@@ -92,8 +85,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PosNeg" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exercises.PosNeg" />
+    <configuration name="Or35" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercises.Or35" />
       <module name="JavaExercises" />
       <extension name="coverage">
         <pattern>
@@ -105,8 +98,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringE" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exercises.StringE" />
+    <configuration name="StartOz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercises.StartOz" />
       <module name="JavaExercises" />
       <extension name="coverage">
         <pattern>
@@ -120,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.PosNeg" />
-        <item itemvalue="Application.ParrotTrouble" />
-        <item itemvalue="Application.MonkeyTrouble" />
-        <item itemvalue="Application.EveryNth" />
-        <item itemvalue="Application.StringE" />
+        <item itemvalue="Application.In3050" />
+        <item itemvalue="Application.StartOz" />
+        <item itemvalue="Application.LoneTeen" />
+        <item itemvalue="Application.IcyHot" />
+        <item itemvalue="Application.Or35" />
       </list>
     </recent_temporary>
   </component>
