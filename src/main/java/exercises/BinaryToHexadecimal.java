@@ -1,7 +1,8 @@
 package exercises;
-// TAGS int, Integer, Integer.parseInt(), Integer.toHexString(), Scanner, Scanner.next(), String, String.toUpperCase()
 
 import java.util.Scanner;
+
+// TAGS int, Integer, Integer.parseInt(), Integer.toHexString(), Scanner, Scanner.next(), String, String.toUpperCase()
 
 /* DESCRIPTION
 https://www.w3resource.com/java-exercises/basic/index.php

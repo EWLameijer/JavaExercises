@@ -5,10 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="91ca622c-df85-4c30-a166-ae36c6331f33" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/exercises/CountLettersSpacesNumbersAndOtherCharactersInString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exercises/DistanceBetweenPointsOnSurfaceOfEarth.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exercises/ReverseAString.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/exercises/AreaOfHexagon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exercises/AreaOfHexagon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/exercises/BackAround.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exercises/BackAround.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/exercises/BinaryToHexadecimal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exercises/BinaryToHexadecimal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/exercises/Close10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exercises/Close10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/exercises/CompareTwoNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exercises/CompareTwoNumbers.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,9 +49,9 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;actions.on.save&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.CountLettersSpacesNumbersAndOtherCharactersInString">
-    <configuration name="AreaOfHexagon" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exercises.AreaOfHexagon" />
+  <component name="RunManager" selected="Application.CompareTwoNumbers">
+    <configuration name="AreaOfPolygon" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercises.AreaOfPolygon" />
       <module name="JavaExercises" />
       <extension name="coverage">
         <pattern>
@@ -61,8 +63,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AreaOfPolygon" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exercises.AreaOfPolygon" />
+    <configuration name="CompareTwoNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercises.CompareTwoNumbers" />
       <module name="JavaExercises" />
       <extension name="coverage">
         <pattern>
@@ -115,11 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CompareTwoNumbers" />
         <item itemvalue="Application.CountLettersSpacesNumbersAndOtherCharactersInString" />
         <item itemvalue="Application.ReverseAString" />
         <item itemvalue="Application.DistanceBetweenPointsOnSurfaceOfEarth" />
         <item itemvalue="Application.AreaOfPolygon" />
-        <item itemvalue="Application.AreaOfHexagon" />
       </list>
     </recent_temporary>
   </component>

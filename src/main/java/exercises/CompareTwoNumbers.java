@@ -1,6 +1,6 @@
 package exercises;
 
-// TAGS
+// TAGS operators-relational, Scanner, Scanner.nextInt(), System.out.printf()
 
 import java.util.Scanner;
 

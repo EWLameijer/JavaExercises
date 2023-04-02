@@ -1,8 +1,8 @@
 package exercises;
 
-// TAGS Math.PI, Math.tan(), methods, operators-arithmetic, parameters, return, Scanner, Scanner.nextDouble
-
 import java.util.Scanner;
+
+// TAGS Math.PI, Math.tan(), methods, operators-arithmetic, parameters, return, Scanner, Scanner.nextDouble
 
 /* DESCRIPTION
 https://www.w3resource.com/java-exercises/basic/index.php
