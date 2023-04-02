@@ -5,15 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="91ca622c-df85-4c30-a166-ae36c6331f33" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/exercises/BinaryToHexadecimal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exercises/BinaryToOctal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exercises/HexadecimalToBinary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exercises/HexadecimalToDecimal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exercises/OctalToBinary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exercises/OctalToDecimal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exercises/OctalToHexadecimal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercises/CompareTwoNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercises/HexadecimalToOctal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercises/ShowSystemData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercises/Snail.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/exercises/BinaryToDecimal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exercises/BinaryToDecimal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/exercises/DecimalToHexadecimal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exercises/DecimalToHexadecimal.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +49,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;actions.on.save&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.HexadecimalToBinary">
+  <component name="RunManager" selected="Application.Snail">
     <configuration name="HexadecimalToBinary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="exercises.HexadecimalToBinary" />
       <module name="JavaExercises" />
@@ -79,8 +76,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OctalToBinary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exercises.OctalToBinary" />
+    <configuration name="HexadecimalToOctal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercises.HexadecimalToOctal" />
       <module name="JavaExercises" />
       <extension name="coverage">
         <pattern>
@@ -92,8 +89,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OctalToDecimal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exercises.OctalToDecimal" />
+    <configuration name="ShowSystemData" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercises.ShowSystemData" />
       <module name="JavaExercises" />
       <extension name="coverage">
         <pattern>
@@ -105,8 +102,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OctalToHexadecimal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exercises.OctalToHexadecimal" />
+    <configuration name="Snail" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercises.Snail" />
       <module name="JavaExercises" />
       <extension name="coverage">
         <pattern>
@@ -120,11 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Snail" />
+        <item itemvalue="Application.ShowSystemData" />
+        <item itemvalue="Application.HexadecimalToOctal" />
         <item itemvalue="Application.HexadecimalToBinary" />
         <item itemvalue="Application.HexadecimalToDecimal" />
-        <item itemvalue="Application.OctalToHexadecimal" />
-        <item itemvalue="Application.OctalToBinary" />
-        <item itemvalue="Application.OctalToDecimal" />
       </list>
     </recent_temporary>
   </component>

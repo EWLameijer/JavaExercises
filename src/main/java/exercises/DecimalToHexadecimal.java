@@ -1,6 +1,6 @@
 package exercises;
 
-// TAGS Ineger.toHexString(), Scanner, Scanner.nextInt(), String.toUpperCase()
+// TAGS Integer.toHexString(), Scanner, Scanner.nextInt(), String.toUpperCase()
 
 /* DESCRIPTION
 https://www.w3resource.com/java-exercises/basic/index.php
