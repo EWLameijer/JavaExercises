@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="91ca622c-df85-4c30-a166-ae36c6331f33" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/exercises/CreateThreeDigitNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exercises/DisplayFileSize.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exercises/DisplayNumberPlusCopies.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exercises/PrintAsciiValueOfChar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exercises/PrintTwinkleTwinkle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exercises/ShowCharsets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercises/DisplayCurrentDateAndTimeInSpecifiedFormat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercises/DisplayTime.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,7 +46,20 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;actions.on.save&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.DisplayFileSize">
+  <component name="RunManager" selected="Application.DisplayCurrentDateAndTimeInSpecifiedFormat">
+    <configuration name="DisplayCurrentDateAndTimeInSpecifiedFormat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercises.DisplayCurrentDateAndTimeInSpecifiedFormat" />
+      <module name="JavaExercises" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exercises.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="DisplayFileSize" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="exercises.DisplayFileSize" />
       <module name="JavaExercises" />
@@ -77,21 +86,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InputAndDisplayPassword" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exercises.InputAndDisplayPassword" />
-      <module name="JavaExercises" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="exercises.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PrintAsciiValueOfChar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exercises.PrintAsciiValueOfChar" />
+    <configuration name="DisplayTime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercises.DisplayTime" />
       <module name="JavaExercises" />
       <extension name="coverage">
         <pattern>
@@ -118,11 +114,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DisplayCurrentDateAndTimeInSpecifiedFormat" />
+        <item itemvalue="Application.DisplayTime" />
         <item itemvalue="Application.DisplayFileSize" />
         <item itemvalue="Application.DisplayNumberPlusCopies" />
         <item itemvalue="Application.PrintTwinkleTwinkle" />
-        <item itemvalue="Application.InputAndDisplayPassword" />
-        <item itemvalue="Application.PrintAsciiValueOfChar" />
       </list>
     </recent_temporary>
   </component>
