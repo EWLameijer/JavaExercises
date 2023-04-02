@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="91ca622c-df85-4c30-a166-ae36c6331f33" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/exercises/CheckIfNumberIsEvenOrOdd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exercises/DivisibleByThreeOrFive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exercises/PrintOddNumbersFrom1To100.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercises/MostlyAscendingTriple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercises/StringToInt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercises/SumOfTwoIntegersEqualToAThirdInteger.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,35 +47,9 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;actions.on.save&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.DivisibleByThreeOrFive">
+  <component name="RunManager" selected="Application.MostlyAscendingTriple">
     <configuration name="CheckIfNumberIsEvenOrOdd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="exercises.CheckIfNumberIsEvenOrOdd" />
-      <module name="JavaExercises" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="exercises.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DisplayCurrentDateAndTimeInSpecifiedFormat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exercises.DisplayCurrentDateAndTimeInSpecifiedFormat" />
-      <module name="JavaExercises" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="exercises.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DisplayTime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exercises.DisplayTime" />
       <module name="JavaExercises" />
       <extension name="coverage">
         <pattern>
@@ -100,8 +74,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrintOddNumbersFrom1To100" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exercises.PrintOddNumbersFrom1To100" />
+    <configuration name="MostlyAscendingTriple" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercises.MostlyAscendingTriple" />
+      <module name="JavaExercises" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exercises.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringToInt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercises.StringToInt" />
+      <module name="JavaExercises" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exercises.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SumOfTwoIntegersEqualToAThirdInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercises.SumOfTwoIntegersEqualToAThirdInteger" />
       <module name="JavaExercises" />
       <extension name="coverage">
         <pattern>
@@ -115,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MostlyAscendingTriple" />
+        <item itemvalue="Application.SumOfTwoIntegersEqualToAThirdInteger" />
+        <item itemvalue="Application.StringToInt" />
         <item itemvalue="Application.DivisibleByThreeOrFive" />
         <item itemvalue="Application.CheckIfNumberIsEvenOrOdd" />
-        <item itemvalue="Application.PrintOddNumbersFrom1To100" />
-        <item itemvalue="Application.DisplayCurrentDateAndTimeInSpecifiedFormat" />
-        <item itemvalue="Application.DisplayTime" />
       </list>
     </recent_temporary>
   </component>
