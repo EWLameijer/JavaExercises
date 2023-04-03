@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="91ca622c-df85-4c30-a166-ae36c6331f33" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/exercises/MostlyAscendingTriple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exercises/StringToInt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exercises/SumOfTwoIntegersEqualToAThirdInteger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercises/FindDivisibleNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercises/SameRightmostDigits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercises/SecondsToHourMinutesAndSeconds.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,22 +47,9 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;actions.on.save&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.MostlyAscendingTriple">
-    <configuration name="CheckIfNumberIsEvenOrOdd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exercises.CheckIfNumberIsEvenOrOdd" />
-      <module name="JavaExercises" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="exercises.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DivisibleByThreeOrFive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exercises.DivisibleByThreeOrFive" />
+  <component name="RunManager" selected="Application.FindDivisibleNumbers">
+    <configuration name="FindDivisibleNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercises.FindDivisibleNumbers" />
       <module name="JavaExercises" />
       <extension name="coverage">
         <pattern>
@@ -87,8 +74,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringToInt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exercises.StringToInt" />
+    <configuration name="SameRightmostDigits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercises.SameRightmostDigits" />
+      <module name="JavaExercises" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exercises.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SecondsToHourMinutesAndSeconds" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercises.SecondsToHourMinutesAndSeconds" />
       <module name="JavaExercises" />
       <extension name="coverage">
         <pattern>
@@ -115,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FindDivisibleNumbers" />
+        <item itemvalue="Application.SecondsToHourMinutesAndSeconds" />
+        <item itemvalue="Application.SameRightmostDigits" />
         <item itemvalue="Application.MostlyAscendingTriple" />
         <item itemvalue="Application.SumOfTwoIntegersEqualToAThirdInteger" />
-        <item itemvalue="Application.StringToInt" />
-        <item itemvalue="Application.DivisibleByThreeOrFive" />
-        <item itemvalue="Application.CheckIfNumberIsEvenOrOdd" />
       </list>
     </recent_temporary>
   </component>
