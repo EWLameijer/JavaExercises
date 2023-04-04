@@ -1,6 +1,6 @@
 package exercises;
 
-// TAGS: if, int, Math.abs(), methods, operators-relational, parameters, return
+// TAGS if, int, Math.abs(), methods, operators-relational, parameters, return
 
 /* DESCRIPTION
 https://codingbat.com/prob/p172021

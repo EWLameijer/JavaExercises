@@ -1,6 +1,6 @@
 package exercises;
 
-// TAGS method, parameters, return, String, String.length(), String.substring, String-concatenation
+// TAGS methods, parameters, return, String, String.length(), String.substring, String-concatenation
 
 /* DESCRIPTION
 // https://codingbat.com/prob/p161642
