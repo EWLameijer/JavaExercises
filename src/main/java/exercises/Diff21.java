@@ -1,6 +1,6 @@
 package exercises;
 
-// TAGS if, int, method, operators-arithmetic, operators-relational, parameters, return
+// TAGS if, int, methods, operators-arithmetic, operators-relational, parameters, return
 /* DESCRIPTION
 // https://codingbat.com/prob/p116624
 Create a method int diff21(int n)

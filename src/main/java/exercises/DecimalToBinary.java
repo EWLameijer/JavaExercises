@@ -1,6 +1,6 @@
 package exercises;
 
-// TAGS Integer.toBinaryString(), operators-arithmetic, operators-relational, remainder, Scanner, Scanner.nextInt(), StringBuilder(), StringBuilder.insert(), while-loops
+// TAGS Integer.toBinaryString(), operators-arithmetic, operators-relational, remainder-operator, Scanner, Scanner.nextInt(), StringBuilder(), StringBuilder.insert(), while-loops
 
 /* DESCRIPTION
 https://www.w3resource.com/java-exercises/basic/index.php

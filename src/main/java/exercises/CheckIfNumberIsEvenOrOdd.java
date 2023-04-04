@@ -1,6 +1,6 @@
 package exercises;
 
-// TAGS if, remainder, Scanner, Scanner.nextInt()
+// TAGS if, remainder-operator, Scanner, Scanner.nextInt()
 
 import java.util.Scanner;
 

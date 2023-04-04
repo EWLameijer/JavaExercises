@@ -1,6 +1,6 @@
 package exercises;
 
-// TAGS methods, modulus, operators-arithmetic, operators-logical, operators-relational, parameters, return
+// TAGS methods, remainder-operator, operators-arithmetic, operators-logical, operators-relational, parameters, return
 
 /* DESCRIPTION
 https://codingbat.com/prob/p112564

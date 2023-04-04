@@ -3,7 +3,7 @@ package exercises;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-// TAGS ArrayList, ArrayList.add(), boolean, char, for-loop, foreach-loop, if, int, Scanner, String, String.charAt(),
+// TAGS ArrayList, ArrayList.add(), boolean, char, for-loops, foreach-loops, if, int, Scanner, String, String.charAt(),
 // TAGS System.out.print() String.toUpperCase()
 
 /* DESCRIPTION

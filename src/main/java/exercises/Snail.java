@@ -1,7 +1,7 @@
 package exercises;
 
 // TAGS Array.length, ArrayList, for-loops, HashSet, List, List.add, List.stream(), records, Set, Set.add(), Set.contains(), Set.isEmpty(),
-// Set.remove(), Steam.mapToInt(), Stream.toArray(), while-loops
+// Set.remove(), Stream.mapToInt(), Stream.toArray(), while-loops
 
 /* DESCRIPTION
 https://www.codewars.com/kata/521c2db8ddc89b9b7a0000c1/train/java

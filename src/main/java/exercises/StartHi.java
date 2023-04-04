@@ -1,6 +1,6 @@
 package exercises;
 
-// TAGS: boolean, if, methods, parameters, return, String, String.equals(), String.length(), String.substring()
+// TAGS boolean, if, methods, parameters, return, String, String.equals(), String.length(), String.substring()
 
 /* DESCRIPTION
 https://codingbat.com/prob/p191022

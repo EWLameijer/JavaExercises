@@ -1,6 +1,6 @@
 package exercises;
 
-// TAGS int, method, parameters, return, String, String.substring, String-concatenation
+// TAGS int, methods, parameters, return, String, String.substring, String-concatenation
 
 /* DESCRIPTION
 https://codingbat.com/prob/p190570

@@ -1,6 +1,6 @@
 package exercises;
 
-// TAGS methods, parameters, operators-arithmetic, remainder, return, Scanner, Scanner.nextInt(), while-loops
+// TAGS methods, parameters, operators-arithmetic, remainder-operator, return, Scanner, Scanner.nextInt(), while-loops
 
 import java.util.Scanner;
 
