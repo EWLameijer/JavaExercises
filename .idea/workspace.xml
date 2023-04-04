@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="91ca622c-df85-4c30-a166-ae36c6331f33" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/exercises/CapitalizeEachWordInASentence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exercises/CountFactors.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/exercises/CapitalizeEachWordInASentence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exercises/CapitalizeEachWordInASentence.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +45,20 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;actions.on.save&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.CountFactors">
+  <component name="RunManager" selected="Application.CapitalizeEachWordInASentence">
+    <configuration name="CapitalizeEachWordInASentence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercises.CapitalizeEachWordInASentence" />
+      <module name="JavaExercises" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exercises.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CountFactors" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="exercises.CountFactors" />
       <module name="JavaExercises" />
@@ -62,19 +74,6 @@
     </configuration>
     <configuration name="FindDivisibleNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="exercises.FindDivisibleNumbers" />
-      <module name="JavaExercises" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="exercises.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MostlyAscendingTriple" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exercises.MostlyAscendingTriple" />
       <module name="JavaExercises" />
       <extension name="coverage">
         <pattern>
@@ -114,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CapitalizeEachWordInASentence" />
         <item itemvalue="Application.CountFactors" />
         <item itemvalue="Application.FindDivisibleNumbers" />
         <item itemvalue="Application.SecondsToHourMinutesAndSeconds" />
         <item itemvalue="Application.SameRightmostDigits" />
-        <item itemvalue="Application.MostlyAscendingTriple" />
       </list>
     </recent_temporary>
   </component>
