@@ -5,7 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="91ca622c-df85-4c30-a166-ae36c6331f33" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercises/AddTwoNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercises/AreaOfTriangleBasedOnSides.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercises/CalculateAverage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercises/CalculateProduct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercises/CelsiusToFahrenheit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercises/FizzBuzz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercises/HelloWorld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercises/SwapTwoNumbersWithoutUsingAThirdVariable.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/exercises/HelloName.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exercises/HelloName.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,25 +38,29 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="OptimizeOnSaveOptions">
+    <option name="myRunOnSave" value="true" />
+  </component>
   <component name="ProjectId" id="2NkK6GuRrIqjqIpGvbPELgK3IS2" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;code.cleanup.on.save&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Development/ITvitae/SoftwareDesign&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;actions.on.save&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "code.cleanup.on.save": "true",
+    "last_opened_file_path": "D:/Development/ITvitae/SoftwareDesign",
+    "rearrange.code.on.save": "true",
+    "settings.editor.selected.configurable": "actions.on.save"
   }
-}</component>
-  <component name="RunManager" selected="Application.CapitalizeEachWordInASentence">
-    <configuration name="CapitalizeEachWordInASentence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exercises.CapitalizeEachWordInASentence" />
+}]]></component>
+  <component name="RunManager" selected="Application.FizzBuzz">
+    <configuration name="AddTwoNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercises.AddTwoNumbers" />
       <module name="JavaExercises" />
       <extension name="coverage">
         <pattern>
@@ -58,8 +72,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CountFactors" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exercises.CountFactors" />
+    <configuration name="CalculateProduct" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercises.CalculateProduct" />
       <module name="JavaExercises" />
       <extension name="coverage">
         <pattern>
@@ -71,8 +85,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindDivisibleNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exercises.FindDivisibleNumbers" />
+    <configuration name="FizzBuzz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercises.FizzBuzz" />
       <module name="JavaExercises" />
       <extension name="coverage">
         <pattern>
@@ -84,8 +98,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SameRightmostDigits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exercises.SameRightmostDigits" />
+    <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercises.HelloWorld" />
       <module name="JavaExercises" />
       <extension name="coverage">
         <pattern>
@@ -97,8 +111,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SecondsToHourMinutesAndSeconds" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exercises.SecondsToHourMinutesAndSeconds" />
+    <configuration name="SwapTwoNumbersWithoutUsingAThirdVariable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercises.SwapTwoNumbersWithoutUsingAThirdVariable" />
       <module name="JavaExercises" />
       <extension name="coverage">
         <pattern>
@@ -112,11 +126,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CapitalizeEachWordInASentence" />
-        <item itemvalue="Application.CountFactors" />
-        <item itemvalue="Application.FindDivisibleNumbers" />
-        <item itemvalue="Application.SecondsToHourMinutesAndSeconds" />
-        <item itemvalue="Application.SameRightmostDigits" />
+        <item itemvalue="Application.FizzBuzz" />
+        <item itemvalue="Application.SwapTwoNumbersWithoutUsingAThirdVariable" />
+        <item itemvalue="Application.AddTwoNumbers" />
+        <item itemvalue="Application.HelloWorld" />
+        <item itemvalue="Application.CalculateProduct" />
       </list>
     </recent_temporary>
   </component>
