@@ -1,4 +1,7 @@
 package exercises;
+
+// TAGS operators-arithmetic, operators-relational, Scanner, Scanner.nextInt(), System.out.print(), while-loops
+
 /* DESCRIPTION
 Write a program that displays a given integer in the reverse order.
 Example:
@@ -22,6 +25,5 @@ public class ReverseAnInteger {
         }
 
         System.out.println(rev);
-
     }
 }

@@ -1,5 +1,7 @@
 package exercises;
 
+// TAGS remainder-operator, Scanner, Scanner.nextInt(), System.out.print()
+
 /* DESCRIPTION
 Check whether a given integer is a multiple of both 5 and 7.
 
@@ -18,7 +20,6 @@ import java.util.Scanner;
 public class MultipleOfBoth5And7 {
 
     public static void main(String[] args) {
-
         System.out.print("Enter an integer: ");
         Scanner input = new Scanner(System.in);
         int number = input.nextInt();
@@ -28,7 +29,6 @@ public class MultipleOfBoth5And7 {
         } else {
             System.out.println(number + " is not a multiple of both 5 and 7");
         }
-
     }
 }
 
