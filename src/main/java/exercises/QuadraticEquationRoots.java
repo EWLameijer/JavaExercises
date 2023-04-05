@@ -2,6 +2,8 @@ package exercises;
 
 import java.util.Scanner;
 
+// TAGS double, if, Math.sqrt(), operators-arithmetic, Scanner, Scanner.nextInt(), System.out.print()
+
 /* DESCRIPTION
 Find the roots of a quadratic equation, given its coefficients.
 
@@ -15,7 +17,6 @@ The root2 is: -1.3903882032022077
  */
 public class QuadraticEquationRoots {
     public static void main(String[] args) {
-
         System.out.print("Enter the first coefficient: ");
         Scanner input = new Scanner(System.in);
         double a = input.nextInt();
@@ -25,15 +26,16 @@ public class QuadraticEquationRoots {
         double c = input.nextInt();
 
         if (a != 0.0) {
-            double d = (b * b) - (4 * a * c);
+            double d = b * b - 4 * a * c;
             if (d == 0.0) {
-                System.out.println("The roots are real and equal.");
+                System.out.println("There is only one root.");
                 double r = -b / (2 * a);
-                System.out.println("The roots are " + r + " and " + r);
+                System.out.println("The root is " + r);
             } else if (d > 0.0) {
                 System.out.println("The roots are real and distinct.");
-                double r1 = (-b + (Math.sqrt(d))) / (2 * a);
-                double r2 = (-b - (Math.sqrt(d))) / (2 * a);
+                double rootOfD = Math.sqrt(d);
+                double r1 = (-b + rootOfD) / (2 * a);
+                double r2 = (-b - rootOfD) / (2 * a);
                 System.out.println("The root1 is: " + r1);
                 System.out.println("The root2 is: " + r2);
             } else {
