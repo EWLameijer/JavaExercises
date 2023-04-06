@@ -22,6 +22,12 @@ https://edabit.com/challenge/pzLMEsMpbCLsPXqy2
 https://edabit.com/challenge/KsowZk9crJSRd9uko
 https://edabit.com/challenge/ZfZMvwTzcTTG2QRzA
  */
+
+// NFibonnaccis (long)
+// long factorials
+// more string exercises (EdaBit? CodeWars?)
+// Sieve of eratostenes
+
 public class Main {
     public static void main(String[] args) {
         System.out.println("Hello world!");
