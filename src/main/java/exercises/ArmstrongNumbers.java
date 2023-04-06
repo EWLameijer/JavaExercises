@@ -1,6 +1,6 @@
 package exercises;
 
-// TAGS casting, if, Math.pow(), operators-arithmetic, Scanner, Scanner.nextInt(), String.length(), System.print(), while-loops
+// TAGS casting, if, Math.pow(), operators-arithmetic, Scanner, Scanner.nextInt(), String.length(), System.out.print(), while-loops
 
 import java.util.Scanner;
 
