@@ -12,7 +12,7 @@ computer science courses.
 The logic in the sequence is simple: you start with 1 1, and every next number is the sum of the previous two numbers.
 So you get a series like 1 1 2 3 5 8 13 21 ... (1+1=2, 1+2=3, 2+3=5, 3+5=8, 5+8=13 etc.)
 
-Create a program that asks for the number up to which to calculate Fibonacci numbers. So if the user wants Fibonacci-
+Create a program that asks for the number up to which to calculate Fibonacci numbers. So if the user wants Fibonacci
 numbers up to 1000, the program should produce 1 1 2 3 5 8 13 21 34 55 89 144 233 377 610 987
 
 Sample run:

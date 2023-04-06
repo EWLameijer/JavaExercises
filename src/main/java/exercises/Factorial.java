@@ -1,6 +1,6 @@
 package exercises;
 
-// TAGS for-loops, operators-arithmetic, Scanner, Scanner.nextInt(), System.out.print(), System.out.printf()
+// TAGS for-loops, int, operators-arithmetic, Scanner, Scanner.nextInt(), System.out.print(), System.out.printf()
 
 import java.util.Scanner;
 
@@ -12,7 +12,6 @@ See also https://en.wikipedia.org/wiki/Factorial
 Sample run:
 Please enter an integer greater than zero: 5
 The factorial of 5 is 120
-
  */
 public class Factorial {
     public static void main(String[] args) {

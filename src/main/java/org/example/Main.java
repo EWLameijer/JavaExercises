@@ -10,6 +10,18 @@ package org.example;
 // 1 done 2 done 3 done 4 done
 // https://code-exercises.com/ ?? vaak te moeilijk
 // https://www.geeksforgeeks.org/java-programming-examples/7
+
+/*
+https://edabit.com/challenge/sn9KfW72BBoT7eesC
+https://edabit.com/challenge/a9Shdt64Ak2Hwq7oP
+https://edabit.com/challenge/MvBYeGybFo4iEpWyp
+https://edabit.com/challenge/hdT772EaY6ofm4ef4
+https://edabit.com/challenge/vzhWSMR2A6wDyFK2o
+https://edabit.com/challenge/i8bDeBaQtZg6wDGYL
+https://edabit.com/challenge/pzLMEsMpbCLsPXqy2
+https://edabit.com/challenge/KsowZk9crJSRd9uko
+https://edabit.com/challenge/ZfZMvwTzcTTG2QRzA
+ */
 public class Main {
     public static void main(String[] args) {
         System.out.println("Hello world!");
