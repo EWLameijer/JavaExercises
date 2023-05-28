@@ -23,6 +23,7 @@ https://edabit.com/challenge/ZfZMvwTzcTTG2QRzA
 // more string exercises (EdaBit? CodeWars?)
 // Sieve of eratostenes
 
+// rondes 1, 2 [animal game] 3, 4 [animal game 2] 5[animal game 2?]
 public class Main {
     public static void main(String[] args) {
         System.out.println("Hello world!");
