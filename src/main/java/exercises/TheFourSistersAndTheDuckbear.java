@@ -36,10 +36,11 @@ public class TheFourSistersAndTheDuckbear {
     public static void main(String[] args) {
         System.out.print("Please enter the number of chocolate eggs gathered: ");
         Scanner in = new Scanner(System.in);
-        int numEggs = in.nextInt();
-        int eggsPerSister = numEggs / 4;
+        int numberOfEggs = in.nextInt();
+        final int numberOfSisters = 4;
+        int eggsPerSister = numberOfEggs / numberOfSisters;
         System.out.println("Each sister gets " + eggsPerSister + " egg(s).");
-        int eggsForTheDuckbear = numEggs % 4;
+        int eggsForTheDuckbear = numberOfEggs % numberOfSisters;
         System.out.println("The duckbear gets " + eggsForTheDuckbear + " egg(s).");
         /*
         for (int eggs = 0; eggs < 100; eggs++ ) if (eggs % 4 > eggs /4)
